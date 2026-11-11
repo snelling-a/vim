@@ -15,6 +15,9 @@
   "diagnostic.infoSign": "",
   "diagnostic.virtualText": true,
   "diagnostic.warningSign": "⚠",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
   "eslint.autoFixOnSave": true,
   "eslint.run": "onSave",
   "git.addGBlameToVirtualText": true,
