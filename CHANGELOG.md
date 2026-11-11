@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/snelling-a/vim/compare/v2.0.0...v2.0.1) (2026-11-11)
+
+
+### Miscellaneous
+
+* **coc:** eslint setting ([6e21fcd](https://github.com/snelling-a/vim/commit/6e21fcddce56074432048dea2b7e3ac0602955da))
+
 ## [2.0.0](https://github.com/snelling-a/vim/compare/v1.2.4...v2.0.0) (2023-10-14)
 
 
